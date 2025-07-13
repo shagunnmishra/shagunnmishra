@@ -30,5 +30,5 @@
 
 ---
 
-### ✍️ Personal Quote  
+### ✍️ Quote  
 > "Consistency beats motivation. Keep showing up."
