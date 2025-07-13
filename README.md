@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Developer+%7C+Learner+%7C+Curious+Mind" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Developer+%7C+Learner+%7C+Curious+Mind" alt="Typing SVG" />
 
 ## ☕💻 Code. Coffee. Curiosity. That pretty much sums it up.
 
@@ -30,12 +30,5 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔗 [Awesome Portfolio Website](https://github.com/shagunnmishra/portfolio)
-- 💡 [AI Chatbot with Python](https://github.com/shagunnmishra/chatbot-ai)
-- 🎨 [Frontend UI Practice](https://github.com/shagunnmishra/ui-experiments)
-
----
-
-### ✍️ Quote  
+### ✍️ Personal Quote  
 > "Consistency beats motivation. Keep showing up."
