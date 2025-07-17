@@ -27,8 +27,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunnmishra&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shagunnmishra&theme=default)
-
----
-
-### ✍️ Quote  
-> "Consistency beats motivation. Keep showing up."
