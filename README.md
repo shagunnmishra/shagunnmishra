@@ -27,3 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagunnmishra&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shagunnmishra&theme=default)
+
+---
+
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=shagunnmishra&color=F75C7E&style=for-the-badge)
