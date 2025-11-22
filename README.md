@@ -4,15 +4,17 @@
 
 ## 🎓 B.Tech Student | Passionate Developer  
 - 💬 Skilled in: **Website Development • Backend • Databases • API Development • DSA**  
-- 🌐 Passionate about MERN, Web3, and building real-world projects  
+- 🌐 Learning MERN, Web3 & building real-world projects  
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/shagunn06)
 
 ---
 
-## 🛠️ Tech Stack (Compact)
-![Stack](https://img.shields.io/badge/C++-Python-JS-HTML-CSS-F75C7E?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Node.js-Express-React-MongoDB-MySQL-F75C7E?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Solidity-Ethereum-Git-GitHub-VSCode-Figma-F75C7E?style=for-the-badge)
+## 🛠️ Tech Stack
+![Languages](https://img.shields.io/badge/C++-Python-JavaScript-F75C7E?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/HTML-CSS-React-F75C7E?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Node.js-Express-MongoDB-F75C7E?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Solidity-Ethereum-Metamask-F75C7E?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Git-GitHub-VSCode-Figma-F75C7E?style=for-the-badge)
 
 ---
 
