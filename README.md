@@ -10,7 +10,9 @@
 ---
 
 ## 🛠️ Tech Stack (Compact)
-![Tech Stack](https://img.shields.io/badge/C++-Python-JS-HTML-CSS-Node-Express-React-MongoDB-MySQL-Solidity-Ethereum-Git-GitHub-VSCode-Postman-Figma-F75C7E?style=for-the-badge)
+![Stack](https://img.shields.io/badge/C++-Python-JS-HTML-CSS-F75C7E?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Node.js-Express-React-MongoDB-MySQL-F75C7E?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Solidity-Ethereum-Git-GitHub-VSCode-Figma-F75C7E?style=for-the-badge)
 
 ---
 
