@@ -29,8 +29,8 @@
 
 ---
 
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/shagunnmishra/shagunnmishra/blob/output/dist/snake.svg)
+### 📊 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shagunnmishra&bg_color=ffffff&color=000000&line=F75C7E&point=000000&hide_border=true)
 
 ---
 
