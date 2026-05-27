@@ -4,14 +4,13 @@
 
 ## 🎓 B.Tech Student | Passionate Developer
 
-- 💬 Skilled in: `C` • `Python` • `C++` • `JavaScript` • `HTML` • `CSS` • `React` • `MATLAB` • `Embedded C`  
 - 🧠 Exploring new tech, solving problems, and learning  
 - 🌐 Interested in web development, AI tools, and building cool stuff  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06) | [Email](mailto:shagun4kashyap@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
