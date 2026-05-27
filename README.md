@@ -2,7 +2,8 @@
 
 ## ☕💻 Code. Coffee. Curiosity. That pretty much sums it up.
 
-## 🎓 B.Tech Student | Passionate Developer
+## 🎓Engineering Student
+
 
 - 🧠 Exploring new tech, solving problems, and learning  
 - 🌐 Interested in web development, AI tools, and building cool stuff  
