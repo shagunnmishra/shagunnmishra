@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Developer+%7C+Learner+%7C+Curious+Mind" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Developer+%7C+Learner+%7C+Explorer" alt="Typing SVG" />
 
 ## ☕💻 Code. Coffee. Curiosity. That pretty much sums it up.
 
