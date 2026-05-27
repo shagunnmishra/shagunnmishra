@@ -29,8 +29,8 @@
 
 ---
 
-### 📊 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shagunnmishra&bg_color=ffffff&color=000000&line=F75C7E&point=000000&hide_border=true)
+### 🌈 3D Contribution Calendar  
+![3D Contributions](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
 
 ---
 
