@@ -7,7 +7,7 @@
 - 💬 Skilled in: `C` • `Python` • `C++` • `JavaScript` • `HTML` • `CSS` • `React` • `MATLAB` • `Embedded C`  
 - 🧠 Exploring new tech, solving problems, and learning  
 - 🌐 Interested in web development, AI tools, and building cool stuff  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06) | 📧 Email: **shagun4kashyap@gmail.com**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06) | [Email](mailto:shagun4kashyap@gmail.com)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 🚀 Projects Showcase
 
-#### 📌 Automatic Vehicle Accident Detector  
+#### 🚗 Automatic Vehicle Accident Detector  
 [🔗 Repo Link](https://github.com/shagunnmishra/Automatic_vehicle_accident_detector)  
 ⚡ Embedded system that detects accidents in real time and sends GPS alerts to emergency contacts.
 
@@ -62,5 +62,3 @@
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=shagunnmishra&color=F75C7E&style=for-the-badge)
-
-
