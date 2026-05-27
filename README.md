@@ -2,7 +2,7 @@
 
 ## ☕💻 Code. Coffee. Curiosity. That pretty much sums it up.
 
-## 🎓Engineering Student
+## 🎓 Engineering Student
 
 
 - 🧠 Exploring new tech, solving problems, and learning  
