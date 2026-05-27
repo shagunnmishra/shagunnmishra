@@ -7,7 +7,7 @@
 - 💬 Skilled in: `C` • `Python` • `C++` • `JavaScript` • `HTML` • `CSS` • `React` • `MATLAB` • `Embedded C`  
 - 🧠 Exploring new tech, solving problems, and learning  
 - 🌐 Interested in web development, AI tools, and building cool stuff  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06) | 📧 Email: **shagun4kashyap@gmail.com**
 
 ---
 
@@ -25,8 +25,33 @@
 ---
 
 ### 📈 GitHub Stats  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shagunnmishra&theme=radical)
+
+---
+
+## 🚀 Projects Showcase
+
+#### 📌 Automatic Vehicle Accident Detector  
+[🔗 Repo Link](https://github.com/shagunnmishra/Automatic_vehicle_accident_detector)  
+⚡ Embedded system that detects accidents in real time and sends GPS alerts to emergency contacts.
+
+---
+
+#### 🎮 Tic Tac Toe AI 🧠  
+[🔗 Repo Link](https://github.com/shagunnmishra/tic_tac_toe_ai) | [▶️ Live Demo](https://shagunnmishra.github.io/tic_tac_toe_ai/)  
+⚡ Smart Tic Tac Toe game with unbeatable AI using Minimax algorithm. Interactive and browser‑based.
+
+---
+
+#### 🌸 BlushBloom  
+[▶️ Live Demo](https://shagunnmishra.github.io/blushbloom)  
+⚡ Simple period tracker with cycle logging, mood tracking, reminders, comfort tips, and stats.
+
+---
+
+#### 📊 Interactive FIR/IIR Filter Design  
+[🔗 Repo Link](https://github.com/shagunnmishra/interactive_fir_iir_filterdesign)  
+⚡ MATLAB project for interactive FIR/IIR filter visualization and design.
 
 ---
 
@@ -37,4 +62,5 @@
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=shagunnmishra&color=F75C7E&style=for-the-badge)
+
 
