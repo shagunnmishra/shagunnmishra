@@ -29,11 +29,10 @@
 
 ---
 
-### 🌈 3D Contribution Calendar  
-![3D Contributions](https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/shagunnmishra/shagunnmishra/blob/output/dist/snake.svg)
 
 ---
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=shagunnmishra&color=F75C7E&style=for-the-badge)
-
