@@ -4,7 +4,7 @@
 
 ## 🎓 B.Tech Student | Passionate Developer
 
-- 💬 Skilled in: `C` • `Python` • `C++` • `JavaScript` • `HTML` • `CSS`  
+- 💬 Skilled in: `C` • `Python` • `C++` • `JavaScript` • `HTML` • `CSS` • `React`  
 - 🧠 Exploring new tech, solving problems, and learning  
 - 🌐 Interested in web development, AI tools, and building cool stuff  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shagunn06)
@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
