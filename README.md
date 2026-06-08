@@ -44,7 +44,7 @@
 ---
 
 #### 🌸 BlushBloom  
-[▶️ Live Demo](https://shagunnmishra.github.io/blushbloom)  
+[🔗 Repo Link](https://github.com/shagunnmishra/blushbloom) | [▶️ Live Demo](https://shagunnmishra.github.io/blushbloom)  
 ⚡ Simple period tracker with cycle logging, mood tracking, reminders, comfort tips, and stats.
 
 ---
